@@ -131,19 +131,18 @@ I'm **Japheth Oluwatimileyin Jerry**, a **Full-Stack & Application Security Engi
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Japheth&show_icons=true&card_width=450&count_private=true&include_all_commits=true&custom_title=Public%20GitHub%20Stats&bg_color=161616&title_color=F1B158&icon_color=F1B158&text_color=FAF7F6&border_color=2B2B30&border_radius=12" width="410" height="176" alt="Public GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Japheth&layout=compact&langs_count=8&card_width=450&count_private=true&bg_color=161616&title_color=F1B158&text_color=FAF7F6&border_color=2B2B30&border_radius=12" width="410" height="176" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prince-Japheth&show_icons=true&card_width=450&count_private=true&include_all_commits=true&custom_title=Public%20GitHub%20Stats&bg_color=161616&title_color=F1B158&icon_color=F1B158&text_color=FAF7F6&border_color=2B2B30&border_radius=12" width="410" height="176" alt="Public GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Japheth&layout=compact&langs_count=8&card_width=450&count_private=true&bg_color=161616&title_color=F1B158&text_color=FAF7F6&border_color=2B2B30&border_radius=12" width="410" height="176" alt="Top Languages" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prince-Japheth&background=161616&ring=F1B158&fire=F1B158&currStreakLabel=F1B158&sideLabels=FAF7F6&currStreakNum=FAF7F6&sideNums=FAF7F6&dates=9E9E9E&border=2B2B30&border_radius=12" alt="GitHub Streak Stats" />
+</p>
 
-<br />
-<sub>*Stats and language cards reflect public repositories only; most client and production work lives in private repos (2,900+ total contributions in the last year).*</sub>
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Prince-Japheth&background=161616&ring=F1B158&fire=F1B158&currStreakLabel=F1B158&sideLabels=FAF7F6&currStreakNum=FAF7F6&sideNums=FAF7F6&dates=9E9E9E&border=2B2B30&border_radius=12" alt="GitHub Streak Stats" />
-
-</div>
+<p align="center">
+  <sub><i>Stats &amp; language cards reflect public repos only; streak card reflects all contributions including private repos.</i></sub>
+</p>
 
 <br />
 
