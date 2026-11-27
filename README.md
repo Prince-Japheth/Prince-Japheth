@@ -1,27 +1,148 @@
-# 💫 About Me:
-👋 Hi, I’m @Prince-Japheth<br>👀 I’m interested in Software Engineering, Cybersecurity, UI/UX Design & Graphic Design<br>🌱 I’m currently studying Software Engineering & Cybersecurity
+<div align="center">
 
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:F1B158&height=175&section=header&text=Japheth%20Jerry&fontSize=46&fontColor=FAF7F6&fontAlignY=38&desc=Full-Stack%20%26%20Application%20Security%20Engineer&descSize=18&descAlignY=60&descColor=F1B158" width="100%" alt="Japheth Jerry header" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Japheth Jerry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princejaphethjj@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_prince_yafet_/)
+<br />
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prince-Japheth&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Japheth&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Japheth&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- Typing Tagline -->
+<a href="https://yafetport.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=21&duration=3000&pause=1100&color=F1B158&center=true&vCenter=true&width=760&lines=Code%2C+Design+%26+Secure+Systems;TypeScript+%7C+React+%7C+Next.js+%7C+React+Native+%7C+Node.js+%7C+Laravel;Security-First+Engineering%3A+Auth%2C+RBAC+%26+OWASP+from+Day+One;300%2B+Commits+Across+10%2B+Currencies+%7C+50%2C000%2B+Records+Processed" alt="Japheth Jerry tagline" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prince-Japheth&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Socials & Quick Links -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-F1B158?style=for-the-badge&logo=vercel&logoColor=161616)](https://yafetport.vercel.app/)
+[![X (Twitter)](https://img.shields.io/badge/X_%40Yafet__Tim-161616?style=for-the-badge&logo=x&logoColor=FAF7F6)](https://x.com/Yafet_Tim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/japheth-jerry-34a513274/)
+[![Resume (PDF)](https://img.shields.io/badge/Resume_PDF-232329?style=for-the-badge&logo=readthedocs&logoColor=F1B158)](https://yafetport.vercel.app/assets/Japheth-Jerry-Cv.pdf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princejaphethjj@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prince_yafet_/)
+![Profile Views](https://komarev.com/ghpvc/?username=Prince-Japheth&label=Profile%20Views&color=F1B158&style=for-the-badge)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prince-Japheth&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prince-Japheth&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm **Japheth Oluwatimileyin Jerry**, a **Full-Stack & Application Security Engineer** blending crisp UI/UX craft with secure web and mobile engineering.
+
+- 🛠️ **What I build:** Production web platforms (`Next.js`, `React`, `TypeScript`), cross-platform mobile apps (`React Native`, `Flutter`), and backend services (`Node.js`, `Laravel/PHP`, `PostgreSQL`, `MySQL`, `Redis`).
+- 🔐 **Security-first mindset:** Auth flows, role-based access control (RBAC), safe token handling, atomic database transactions, audit logging, and OWASP Top 10 hardening from day one.
+- 🚀 **Recent work:** Shipped cross-border payment flows across 10+ currencies at **Witty Tech** (`300+` commits in under 3 months), led frontend architecture for **Popkup** and **PicaTip**, engineered full-stack security & APIs at **Aquila Cyber**, and built React Native apps at **Spicodex**.
+- 🎓 **Background:** Associate Degree / Diploma in Computer Software Engineering (`Lincoln University College`), BSc in Cybersecurity & Networking (`In progress`), and **Professional Scrum Master I (PSM I)**.
+- 🤝 **Open to:** Remote Full-Stack, Frontend-Leaning Full-Stack, Product Engineer, and Application Security roles worldwide (`princejaphethjj@gmail.com`).
+
+<div align="center">
+  <br />
+  <a href="https://yafetport.vercel.app/" title="Explore Japheth Jerry's Portfolio">
+    <img src="https://yafetport.vercel.app/og/home.png" alt="Japheth Jerry Portfolio Preview" width="720" />
+  </a>
+  <br />
+  <sub>Click above to explore the full interactive portfolio at <a href="https://yafetport.vercel.app/">yafetport.vercel.app</a></sub>
+</div>
+
+---
+
+## ⚡ Selected Builds
+
+| Project | Focus & Stack | Highlights | Link |
+| :--- | :--- | :--- | :--- |
+| **Periderm CLI & Dashboard** | DevTools · Security · TypeScript, Node.js, React, TanStack, Supabase | 150+ point pre-launch code scanner with AI deep-review & companion dashboard | [Live Site](https://periderm-cli.vercel.app/) |
+| **Witty Tech** | Fintech · Cross-Border FX · React, TypeScript, Unit Tests | Payment flows across 10+ currencies (`NGN`, `USD`, `CNY`, stablecoins); `300+` commits in `< 3` months | [Live Site](https://wittytech.io/) |
+| **PicaTip** *(Popkup)* | AI Sports Analytics · Next.js, TypeScript, Redux Toolkit, Framer Motion | Real-time match tracking, prediction intelligence, WebSockets & typed state architecture | [Live Site](https://picatip.com/) |
+| **Lincoln Result Portal** | EdTech · Laravel, PHP, MySQL, Redis | Rebuilt CSV workflow with strict validation, atomic rollback, audit logs; `50,000+` records processed | [Live Site](https://result.lincoln.edu.ng) |
+| **LCDP School System** | EdTech SaaS · Laravel, MySQL, Redis, OWASP | MFA, RBAC, sub-200ms cached responses serving `5,000+` active students & staff at `99.9%` uptime | [Live Site](https://gudu.lcpd.net/) |
+| **Ransomware Canary** | Endpoint Security · Python, `watchdog`, `psutil` | Zero-infrastructure behavioral threat detection & active process defense using deception honeyfiles | [GitHub](https://github.com/Prince-Japheth/RansomwareCanary) |
+
+---
+
+## 💻 Tech Stack & Tools
+
+### Frontend & Motion
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-161616?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=F1B158)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-161616?style=for-the-badge&logo=framer&logoColor=F1B158)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=161616)
+![Three.js](https://img.shields.io/badge/Three.js-161616?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-2C2052?style=for-the-badge&logo=astro&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Mobile & Desktop
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+
+### Backend, Data & Security
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=161616)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### Cloud, DevOps & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-161616?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-161616?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00923F?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prince-Japheth&show_icons=true&count_private=true&bg_color=161616&title_color=F1B158&icon_color=F1B158&text_color=FAF7F6&border_color=2B2B30&border_radius=12" height="175" alt="Japheth Jerry GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Japheth&layout=compact&count_private=true&bg_color=161616&title_color=F1B158&text_color=FAF7F6&border_color=2B2B30&border_radius=12" height="175" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Prince-Japheth&background=161616&ring=F1B158&fire=F1B158&currStreakLabel=F1B158&sideLabels=FAF7F6&currStreakNum=FAF7F6&sideNums=FAF7F6&dates=9E9E9E&border=2B2B30&border_radius=12" alt="GitHub Streak Stats" />
+
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:F1B158&height=100&section=footer" width="100%" alt="Footer wave" />
