@@ -19,7 +19,6 @@
 [![Resume (PDF)](https://img.shields.io/badge/Resume_PDF-232329?style=for-the-badge&logo=readthedocs&logoColor=F1B158)](https://yafetport.vercel.app/assets/Japheth-Jerry-Cv.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princejaphethjj@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prince_yafet_/)
-![Profile Views](https://komarev.com/ghpvc/?username=Prince-Japheth&label=Profile%20Views&color=F1B158&style=for-the-badge)
 
 </div>
 
@@ -134,8 +133,8 @@ I'm **Japheth Oluwatimileyin Jerry**, a **Full-Stack & Application Security Engi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prince-Japheth&show_icons=true&count_private=true&bg_color=161616&title_color=F1B158&icon_color=F1B158&text_color=FAF7F6&border_color=2B2B30&border_radius=12" height="175" alt="Japheth Jerry GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Japheth&layout=compact&count_private=true&bg_color=161616&title_color=F1B158&text_color=FAF7F6&border_color=2B2B30&border_radius=12" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prince-Japheth&show_icons=true&card_width=450&count_private=true&bg_color=161616&title_color=F1B158&icon_color=F1B158&text_color=FAF7F6&border_color=2B2B30&border_radius=12" width="410" height="176" alt="Japheth Jerry GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Japheth&layout=compact&langs_count=8&card_width=450&count_private=true&bg_color=161616&title_color=F1B158&text_color=FAF7F6&border_color=2B2B30&border_radius=12" width="410" height="176" alt="Top Languages" />
 
 <br />
 
